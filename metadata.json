@@ -1,0 +1,5 @@
+{
+  "name": "Công Nghệ 101",
+  "description": "Nền tảng học tập tương tác môn Công Nghệ 101, bao gồm bài học lý thuyết và mô phỏng động cơ 2.5D/3D. Sử dụng Supabase backend để lưu trữ dữ liệu.",
+  "requestFramePermissions": []
+}

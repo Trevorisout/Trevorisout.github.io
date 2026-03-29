@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple-choice",
+    "question": "Các bộ phận chính của một chiếc ô tô bao gồm:",
+    "options": [
+      "Động cơ, hệ thống truyền lực, bánh xe.",
+      "Hệ thống lái, hệ thống phanh, khung vỏ.",
+      "Hệ thống điện và điện tử.",
+      "Tất cả các bộ phận trên."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bộ phận nào tạo ra nguồn mô men chủ động để xe chuyển động?",
+    "options": [
+      "Động cơ.",
+      "Hệ thống truyền lực.",
+      "Hệ thống lái.",
+      "Hộp số."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống truyền lực trên ô tô bao gồm các bộ phận nào?",
+    "options": [
+      "Li hợp, hộp số, trục các đăng, truyền lực chính và bộ vi sai.",
+      "Động cơ, bánh xe, hệ thống phanh.",
+      "Vô lăng, trục lái, cơ cấu lái.",
+      "Xilanh, piston, trục khuỷu."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Nhiệm vụ của hệ thống truyền lực là:",
+    "options": [
+      "Tạo ra năng lượng nhiệt.",
+      "Truyền và biến đổi mô men từ động cơ đến các bánh xe.",
+      "Điều khiển hướng chuyển động của xe.",
+      "Giảm tốc độ và dừng xe."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bộ phận nào dùng để ngắt hoặc nối truyền động từ động cơ đến hộp số?",
+    "options": [
+      "Li hợp (Côn).",
+      "Hộp số.",
+      "Trục các đăng.",
+      "Bộ vi sai."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hộp số trên ô tô có nhiệm vụ chính là:",
+    "options": [
+      "Đốt cháy nhiên liệu sinh công.",
+      "Thay đổi mô men và tốc độ của xe, cho phép xe chạy lùi.",
+      "Điều khiển bánh xe dẫn hướng.",
+      "Nạp điện cho ắc quy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống nào giúp ô tô chuyển động êm dịu khi đi qua đường gồ ghề?",
+    "options": [
+      "Hệ thống lái.",
+      "Hệ thống phanh.",
+      "Hệ thống treo.",
+      "Hệ thống truyền lực."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống lái có nhiệm vụ gì?",
+    "options": [
+      "Thay đổi hoặc duy trì hướng chuyển động của ô tô.",
+      "Dừng xe trong trường hợp khẩn cấp.",
+      "Truyền lực từ động cơ tới bánh xe.",
+      "Tăng công suất cho động cơ."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Để giảm tốc độ hoặc dừng hẳn ô tô, người lái sử dụng hệ thống nào?",
+    "options": [
+      "Hệ thống treo.",
+      "Hệ thống truyền lực.",
+      "Hệ thống phanh.",
+      "Hệ thống lái."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Khung vỏ ô tô có vai trò gì?",
+    "options": [
+      "Lắp đặt các hệ thống và bộ phận của ô tô.",
+      "Tạo không gian chứa người và hàng hóa.",
+      "Bảo vệ người ngồi trên xe và tạo hình dáng thẩm mỹ.",
+      "Tất cả các đáp án trên."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống điện và điện tử trên ô tô bao gồm:",
+    "options": [
+      "Nguồn điện (ắc quy, máy phát).",
+      "Hệ thống khởi động, đánh lửa, chiếu sáng, tín hiệu.",
+      "Các hệ thống điều khiển thông minh và an toàn.",
+      "Tất cả các thành phần trên."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Ý nào sau đây là tác động tiêu cực của ô tô đối với môi trường?",
+    "options": [
+      "Giúp cơ giới hóa sản xuất.",
+      "Gây ô nhiễm không khí do khí thải và tiếng ồn.",
+      "Rút ngắn thời gian di chuyển.",
+      "Vận chuyển được khối lượng hàng hóa lớn."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Người lái xe cần làm gì trước khi khởi động xe để đảm bảo an toàn?",
+    "options": [
+      "Kiểm tra áp suất lốp.",
+      "Điều chỉnh vị trí ghế và gương chiếu hậu.",
+      "Thắt dây an toàn.",
+      "Thực hiện tất cả các việc trên."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Khi lái xe trên đoạn đường trơn trượt, người lái nên:",
+    "options": [
+      "Phanh gấp để dừng xe nhanh.",
+      "Quay vành lái đột ngột.",
+      "Đi chậm và tránh phanh gấp, tránh quay vành lái đột ngột.",
+      "Tăng ga thật mạnh để vượt qua."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bộ phận nào cho phép các bánh xe quay với tốc độ khác nhau khi xe vào đường vòng?",
+    "options": [
+      "Li hợp.",
+      "Hộp số.",
+      "Bộ vi sai.",
+      "Trục các đăng."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống phanh hiện đại thường được trang bị thêm hệ thống nào để chống bó cứng bánh xe?",
+    "options": [
+      "Hệ thống EFI.",
+      "Hệ thống ABS.",
+      "Hệ thống SCR.",
+      "Hệ thống EGR."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Để đảm bảo an toàn giao thông, người ngồi trên ô tô cần:",
+    "options": [
+      "Mở cửa xe ngay khi xe vừa dừng lại.",
+      "Thắt dây an toàn và ngồi đúng tư thế.",
+      "Nhoài người ra ngoài cửa sổ để quan sát.",
+      "Sử dụng điện thoại khi đang lái xe."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Máy phát điện trên ô tô có nhiệm vụ:",
+    "options": [
+      "Khởi động động cơ.",
+      "Cung cấp điện cho các thiết bị và nạp điện cho ắc quy khi máy đang nổ.",
+      "Tạo ra tia lửa điện để đốt cháy xăng.",
+      "Thay thế hoàn toàn ắc quy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống truyền lực có bộ phận \"Trục các đăng\" nhằm mục đích:",
+    "options": [
+      "Thay đổi tốc độ xe.",
+      "Truyền mô men giữa các trục không thẳng hàng hoặc có sự thay đổi khoảng cách.",
+      "Ngắt truyền động khẩn cấp.",
+      "Bôi trơn các bánh răng."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Vai trò chính của ô tô trong đời sống và sản xuất là:",
+    "options": [
+      "Là phương tiện giao thông vận tải đường bộ chính.",
+      "Giúp vận chuyển người và hàng hóa nhanh chóng, thuận tiện.",
+      "Thúc đẩy giao thương và phát triển kinh tế.",
+      "Tất cả các ý trên."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống phanh trên ô tô thường được phân loại theo:",
+    "options": [
+      "Theo kết cấu cơ cấu phanh (phanh đĩa, phanh tang trống).",
+      "Theo dẫn động phanh (phanh thủy lực, phanh khí nén).",
+      "Theo công dụng (phanh chính, phanh dừng).",
+      "Tất cả các cách phân loại trên."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Khi đi xe ô tô, việc điều chỉnh gương chiếu hậu giúp người lái:",
+    "options": [
+      "Nhìn rõ phía trước xe.",
+      "Quan sát được phía sau và hai bên thân xe, hạn chế điểm mù.",
+      "Trang trí cho xe đẹp hơn.",
+      "Kiểm tra tình trạng hành khách phía sau."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Những yếu tố nào tiềm ẩn nguy cơ mất an toàn khi vận hành ô tô?",
+    "options": [
+      "Tình trạng kĩ thuật của xe không đảm bảo.",
+      "Người lái sử dụng rượu bia hoặc chất kích thích.",
+      "Vi phạm luật giao thông đường bộ.",
+      "Tất cả các yếu tố trên."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống treo bao gồm các thành phần chính nào?",
+    "options": [
+      "Bộ phận đàn hồi, bộ phận dẫn hướng và bộ phận giảm chấn.",
+      "Bánh xe, lốp xe và vành xe.",
+      "Trục lái và vành tay lái.",
+      "Má phanh và đĩa phanh."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Tại sao phải thường xuyên kiểm tra tình trạng kĩ thuật của ô tô?",
+    "options": [
+      "Để xe luôn bóng loáng.",
+      "Để kịp thời phát hiện hư hỏng, đảm bảo an toàn và tăng tuổi thọ cho xe.",
+      "Để tiết kiệm xăng tối đa.",
+      "Vì luật pháp bắt buộc phải rửa xe hàng ngày."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Trong hệ thống lái, bộ phận nào tiếp nhận lực điều khiển trực tiếp từ tay người lái?",
+    "options": [
+      "Trục lái.",
+      "Vành lái (Vô lăng).",
+      "Cơ cấu lái.",
+      "Bánh xe dẫn hướng."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Phanh dừng (phanh tay) được sử dụng chủ yếu khi nào?",
+    "options": [
+      "Khi đỗ xe hoặc dừng xe trong thời gian dài.",
+      "Khi xe đang chạy ở tốc độ cao.",
+      "Khi muốn vượt xe khác.",
+      "Khi xe vừa khởi động."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống điện tử hỗ trợ đỗ xe giúp ích gì cho người lái?",
+    "options": [
+      "Giúp xe chạy nhanh hơn.",
+      "Cảnh báo vật cản và hỗ trợ đưa xe vào vị trí đỗ an toàn.",
+      "Tự động thay dầu cho máy.",
+      "Giảm lượng khí thải độc hại."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Lốp xe ô tô quá mòn sẽ gây ra hậu quả gì?",
+    "options": [
+      "Xe chạy êm hơn.",
+      "Giảm độ bám đường, dễ gây trượt bánh và nổ lốp, mất an toàn.",
+      "Giúp tiết kiệm nhiên liệu.",
+      "Không ảnh hưởng gì đến vận hành."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Một chiếc ô tô hiện đại thường sử dụng nguồn điện từ:",
+    "options": [
+      "Pin năng lượng mặt trời.",
+      "Ắc quy và máy phát điện.",
+      "Động cơ đốt trong trực tiếp.",
+      "Điện lưới gia đình."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Việc thắt dây an toàn khi ngồi trên ô tô có tác dụng gì?",
+    "options": [
+      "Đối phó với cảnh sát giao thông.",
+      "Giữ cơ thể cố định, giảm va đập khi xe dừng đột ngột hoặc xảy ra tai nạn.",
+      "Làm cho ghế ngồi êm hơn.",
+      "Giúp xe cân bằng hơn khi vào cua."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Tại sao ô tô cần phải được bảo dưỡng định kỳ theo khuyến cáo của nhà sản xuất?",
+    "options": [
+      "Để nhà sản xuất có thêm lợi nhuận.",
+      "Đảm bảo xe hoạt động ổn định, an toàn và duy trì các điều kiện bảo hành.",
+      "Để xe có tiếng nổ to hơn.",
+      "Để thay đổi màu sơn của xe."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống đèn chiếu sáng trên ô tô có tác dụng:",
+    "options": [
+      "Giúp người lái quan sát đường vào ban đêm hoặc khi thiếu sáng.",
+      "Báo hiệu sự hiện diện của xe cho các phương tiện khác.",
+      "Trang trí thẩm mỹ cho xe.",
+      "Cả A và B đều đúng."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Cơ cấu phanh đĩa có ưu điểm gì so với phanh tang trống?",
+    "options": [
+      "Giá thành rẻ hơn.",
+      "Thoát nhiệt tốt hơn, hiệu quả phanh cao và ổn định hơn.",
+      "Cấu tạo kín nên không bị bụi bẩn.",
+      "Không bao giờ bị mòn."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Khi mở cửa xe ô tô để bước xuống, người ngồi trên xe cần:",
+    "options": [
+      "Mở tung cửa thật mạnh.",
+      "Quan sát kỹ phía trước và phía sau, chỉ mở cửa khi đảm bảo an toàn.",
+      "Mở cửa phía bên trái dù có xe đang lao tới.",
+      "Nhảy xuống xe khi xe chưa dừng hẳn."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống âm thanh, điều hòa nhiệt độ trên ô tô thuộc hệ thống nào?",
+    "options": [
+      "Hệ thống truyền lực.",
+      "Hệ thống treo.",
+      "Hệ thống điện và tiện nghi.",
+      "Khung vỏ."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Li hợp (côn) thường được điều khiển bằng:",
+    "options": [
+      "Bàn đạp chân (xe số sàn) hoặc tự động (xe số tự động).",
+      "Cần số.",
+      "Vô lăng.",
+      "Công tắc trên táp lô."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bánh xe dẫn hướng thường là bánh xe phía nào của ô tô?",
+    "options": [
+      "Hai bánh phía trước.",
+      "Hai bánh phía sau.",
+      "Chỉ bánh bên trái.",
+      "Tất cả các bánh xe."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Tác dụng của bộ phận giảm chấn (thụt) trong hệ thống treo là:",
+    "options": [
+      "Nâng đỡ trọng lượng xe.",
+      "Dập tắt nhanh các dao động của xe khi đi trên đường không bằng phẳng.",
+      "Giúp bánh xe quay nhanh hơn.",
+      "Thay đổi chiều cao của xe."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Xe ô tô đi bên phải theo chiều đi của mình là quy định của:",
+    "options": [
+      "Nhà sản xuất ô tô.",
+      "Luật Giao thông đường bộ tại Việt Nam.",
+      "Hệ thống lái điện tử.",
+      "Người ngồi trên xe."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống túi khí (Airbag) trên ô tô có nhiệm vụ:",
+    "options": [
+      "Giúp xe nhẹ hơn khi lội nước.",
+      "Giảm chấn thương cho người trong xe khi xảy ra va chạm mạnh.",
+      "Làm mát khoang lái.",
+      "Thay thế dây an toàn."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Khi đèn báo áp suất lốp trên bảng đồng hồ phát sáng, bạn nên:",
+    "options": [
+      "Tiếp tục chạy bình thường.",
+      "Dừng xe kiểm tra áp suất lốp vì có thể lốp bị non hơi hoặc thủng.",
+      "Tăng tốc để nhanh đến chỗ sửa xe.",
+      "Tắt đèn báo đi và chạy tiếp."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "\"Điểm mù\" của ô tô là:",
+    "options": [
+      "Vị trí đèn pha không chiếu tới.",
+      "Những khu vực xung quanh xe mà người lái không thể quan sát được qua gương hoặc trực tiếp.",
+      "Lúc người lái nhắm mắt khi buồn ngủ.",
+      "Phía dưới gầm xe."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống truyền lực \"Cầu sau\" có nghĩa là:",
+    "options": [
+      "Động cơ đặt ở phía sau.",
+      "Mô men từ động cơ được truyền đến các bánh xe phía sau để đẩy xe đi.",
+      "Xe chỉ có bánh xe ở phía sau.",
+      "Xe chỉ chạy lùi được."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Việc kiểm tra nồng độ cồn trước khi lái xe nhằm:",
+    "options": [
+      "Tiết kiệm tiền mua rượu bia.",
+      "Đảm bảo sự tỉnh táo của người lái, giảm nguy cơ gây tai nạn.",
+      "Giúp động cơ nổ êm hơn.",
+      "Theo yêu cầu của người ngồi sau."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bộ phận nào sau đây không thuộc hệ thống lái?",
+    "options": [
+      "Vô lăng.",
+      "Thước lái.",
+      "Bàn đạp phanh.",
+      "Trục lái."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hộp số tự động khác hộp số sàn ở chỗ:",
+    "options": [
+      "Không có bánh răng.",
+      "Tự động thay đổi tỷ số truyền dựa trên tốc độ và tải trọng mà không cần người lái cắt côn.",
+      "Chạy tốn xăng hơn rất nhiều.",
+      "Không thể chạy lùi."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Ý thức, trách nhiệm của người sử dụng ô tô thể hiện ở việc:",
+    "options": [
+      "Chấp hành đúng luật giao thông.",
+      "Bảo dưỡng xe định kỳ để giảm phát thải.",
+      "Không lái xe khi đã uống rượu bia.",
+      "Tất cả các ý trên."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Cấu tạo bánh xe ô tô gồm các phần chính:",
+    "options": [
+      "Chỉ có lốp cao su.",
+      "Vành bánh xe (mâm) và lốp xe.",
+      "Trục xe và nan hoa.",
+      "Đĩa phanh và má phanh."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Mục đích chính của việc học về cấu tạo và hệ thống ô tô là:",
+    "options": [
+      "Để trở thành tay đua xe chuyên nghiệp.",
+      "Hiểu nguyên lý, vận hành an toàn và biết cách bảo trì xe cơ bản.",
+      "Để tự chế tạo một chiếc ô tô tại nhà.",
+      "Để biết cách tháo rời xe ra bán linh kiện."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  }
+]

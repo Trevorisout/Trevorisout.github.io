@@ -1,0 +1,588 @@
+[
+  {
+    "type": "multiple-choice",
+    "question": "Chu trình làm việc của động cơ 4 kỳ diễn ra trong mấy vòng quay trục khuỷu?",
+    "options": [
+      "1 vòng quay.",
+      "2 vòng quay.",
+      "3 vòng quay.",
+      "4 vòng quay."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Điểm chết trên (ĐCT) của piston được định nghĩa là vị trí:",
+    "options": [
+      "Piston ở gần tâm trục khuỷu nhất.",
+      "Piston ở xa tâm trục khuỷu nhất.",
+      "Piston bắt đầu đi xuống nạp khí.",
+      "Piston dừng lại để đánh lửa."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Thứ tự đúng của các kỳ trong một chu trình làm việc của động cơ 4 kỳ là:",
+    "options": [
+      "Nạp – Nổ – Nén – Xả.",
+      "Nén – Nạp – Nổ – Xả.",
+      "Nạp – Nén – Nổ – Xả.",
+      "Nạp – Nén – Xả – Nổ."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Trong kỳ nén của động cơ 4 kỳ, trạng thái của các xupap là:",
+    "options": [
+      "Xupap nạp mở, xupap xả đóng.",
+      "Xupap nạp đóng, xupap xả mở.",
+      "Cả hai xupap đều mở để nén khí.",
+      "Cả hai xupap đều đóng kín."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Động cơ Diesel nạp loại chất gì vào xi lanh trong kỳ nạp?",
+    "options": [
+      "Hòa khí (hỗn hợp xăng và không khí).",
+      "Hơi nhiên liệu Diesel.",
+      "Không khí sạch.",
+      "Hỗn hợp dầu Diesel và không khí."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Kỳ nào trong chu trình làm việc trực tiếp tạo ra lực đẩy piston làm quay trục khuỷu?",
+    "options": [
+      "Kỳ nạp.",
+      "Kỳ nén.",
+      "Kỳ nổ (Sinh công).",
+      "Kỳ xả."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Ở động cơ xăng, bugi thực hiện đánh lửa vào thời điểm nào?",
+    "options": [
+      "Đầu kỳ nén.",
+      "Giữa kỳ nén.",
+      "Cuối kỳ nén (trước khi piston lên đến ĐCT).",
+      "Khi piston đã xuống đến ĐCD ở kỳ nổ."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hành trình của piston (S) là:",
+    "options": [
+      "Khoảng cách giữa hai điểm chết ĐCT và ĐCD.",
+      "Quãng đường piston đi được trong 1 vòng quay trục khuỷu.",
+      "Đường kính của xi lanh động cơ.",
+      "Độ dài của thanh truyền."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Mối liên hệ giữa hành trình piston (S) và bán kính quay của trục khuỷu (R) là:",
+    "options": [
+      "S = R.",
+      "S = 2R.",
+      "R = 2S.",
+      "S = 4R."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Đặc điểm nổi bật khiến động cơ Diesel có hiệu suất nhiệt cao hơn động cơ xăng là:",
+    "options": [
+      "Sử dụng bugi đánh lửa mạnh.",
+      "Có tỷ số nén cao hơn nhiều so với động cơ xăng.",
+      "Nhiên liệu Diesel rẻ tiền hơn.",
+      "Cấu tạo piston phức tạp hơn."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Trong kỳ xả của động cơ 4 kỳ, piston chuyển động theo chiều nào?",
+    "options": [
+      "Từ ĐCT xuống ĐCD.",
+      "Từ ĐCD lên ĐCT.",
+      "Đứng yên tại ĐCD.",
+      "Quay quanh trục khuỷu."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Nhiên liệu trong động cơ Diesel tự bốc cháy là do:",
+    "options": [
+      "Sức nóng của bugi sấy.",
+      "Á suất và nhiệt độ không khí ở cuối kỳ nén rất cao.",
+      "Nhiên liệu được đun nóng trước khi phun.",
+      "Tia lửa điện từ vòi phun."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hòa khí của động cơ xăng dùng bộ chế hòa khí được hình thành ở đâu?",
+    "options": [
+      "Bên trong buồng cháy của xi lanh.",
+      "Trên đường ống nạp (trước khi vào xi lanh).",
+      "Ngay tại vòi phun nhiên liệu.",
+      "Bên trong các-te máy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hòa khí của động cơ Diesel được hình thành ở vị trí nào?",
+    "options": [
+      "Trong bầu lọc khí.",
+      "Trên đường ống nạp.",
+      "Trong xi lanh vào cuối kỳ nén.",
+      "Trong bơm cao áp."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Động cơ 2 kỳ hoàn thành một chu trình làm việc trong bao nhiêu vòng quay trục khuỷu?",
+    "options": [
+      "1 vòng.",
+      "2 vòng.",
+      "0,5 vòng.",
+      "4 vòng."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Ưu điểm chính của động cơ 4 kỳ so với động cơ 2 kỳ là:",
+    "options": [
+      "Cấu tạo đơn giản, không có xupap.",
+      "Tiết kiệm nhiên liệu và giảm ô nhiễm môi trường.",
+      "Công suất trên cùng một dung tích lớn hơn.",
+      "Trọng lượng máy nhẹ hơn."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bộ phận nào giúp động cơ duy trì tốc độ quay ổn định và vượt qua các kỳ phụ?",
+    "options": [
+      "Piston.",
+      "Bánh đà.",
+      "Thanh truyền.",
+      "Trục cam."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Thân máy và nắp máy của động cơ ô tô hiện nay thường được làm bằng:",
+    "options": [
+      "Nhựa tổng hợp chịu nhiệt.",
+      "Hợp kim nhôm hoặc gang xám.",
+      "Thép không gỉ (Inox).",
+      "Sắt nguyên chất."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Nhiệm vụ quan trọng nhất của hệ thống bôi trơn là:",
+    "options": [
+      "Cung cấp nhiên liệu cho máy.",
+      "Giảm ma sát, làm mát, làm sạch và làm kín các bề mặt chi tiết.",
+      "Đốt cháy các cặn bẩn trong máy.",
+      "Tăng công suất cho động cơ."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Trong hệ thống bôi trơn cưỡng bức, dầu được vận chuyển đến các bề mặt ma sát nhờ:",
+    "options": [
+      "Trọng lực tự nhiên.",
+      "Áp suất do bơm dầu tạo ra.",
+      "Sự vung té của trục khuỷu.",
+      "Áp suất khí nén trong xi lanh."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bầu lọc dầu trong hệ thống bôi trơn có vai trò:",
+    "options": [
+      "Làm hạ nhiệt độ của dầu.",
+      "Loại bỏ các tạp chất cơ học và mạt kim loại trong dầu.",
+      "Tăng độ nhớt cho dầu bôi trơn.",
+      "Ngăn không cho dầu chảy về các-te."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Tại sao một số động cơ cần có két làm mát dầu?",
+    "options": [
+      "Để dầu không bị bay hơi.",
+      "Để giữ nhiệt độ dầu ổn định, tránh dầu bị loãng quá mức khi máy nóng.",
+      "Để lọc bụi mịn trong dầu.",
+      "Để chứa thêm dầu dự phòng."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+  "type": "multiple-choice",
+  "question": "Tỷ số nén (ε) của động cơ được tính bằng công thức:",
+  "options": [
+    "ε = Vh / Vc.",
+    "ε = Vc / Va.",
+    "ε = Va / Vc.",
+    "ε = Va / Vh."
+  ],
+  "correctAnswer": 2,
+  "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },  
+  {
+    "type": "multiple-choice",
+    "question": "Khi áp suất dầu trong hệ thống vượt quá mức cho phép, bộ phận nào sẽ hoạt động?",
+    "options": [
+      "Van hằng nhiệt.",
+      "Van an toàn (Van điều áp).",
+      "Bơm cao áp.",
+      "Thước thăm dầu."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống làm mát bằng nước tuần hoàn cưỡng bức bao gồm những loại nào?",
+    "options": [
+      "Loại hở và loại kín.",
+      "Loại dùng quạt và loại không dùng quạt.",
+      "Cả A và B đều đúng.",
+      "Chỉ có loại bốc hơi."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Van hằng nhiệt có chức năng gì trong hệ thống làm mát?",
+    "options": [
+      "Tăng tốc độ quay của quạt gió.",
+      "Làm nước mát lạnh đi nhanh chóng.",
+      "Điều hướng nước mát về bơm hoặc qua két tản nhiệt tùy theo nhiệt độ.",
+      "Đo nhiệt độ để báo lên bảng đồng hồ."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Khi động cơ vừa mới khởi động (nhiệt độ nước < 70°C), nước làm mát sẽ:",
+    "options": [
+      "Chảy qua két tản nhiệt để làm lạnh.",
+      "Đi tắt theo đường ống phụ về thẳng bơm nước.",
+      "Ngừng tuần hoàn để máy nhanh nóng.",
+      "Được xả bỏ ra ngoài môi trường."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Cánh tản nhiệt đúc ngoài thân xi lanh là đặc điểm của hệ thống làm mát nào?",
+    "options": [
+      "Làm mát bằng nước tuần hoàn.",
+      "Làm mát bằng không khí.",
+      "Làm mát bằng dầu cưỡng bức.",
+      "Làm mát bằng dung dịch hóa chất."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống nhiên liệu động cơ xăng dùng bộ chế hòa khí sử dụng bộ phận nào để trộn xăng với không khí?",
+    "options": [
+      "Vòi phun điện tử.",
+      "Bộ chế hòa khí (Bình xăng con).",
+      "Bơm cao áp Diesel."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Trong hệ thống phun xăng điện tử (EFI), xăng được phun vào vị trí nào?",
+    "options": [
+      "Phía trước xupap nạp hoặc trực tiếp vào buồng cháy.",
+      "Vào các-te để bôi trơn piston.",
+      "Vào bầu lọc gió để trộn đều.",
+      "Vào két nước tản nhiệt."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Khối điều khiển điện tử (ECU) trong hệ thống EFI đóng vai trò:",
+    "options": [
+      "Là nguồn cung cấp điện cho bugi.",
+      "Là máy bơm hút xăng từ bình.",
+      "Tiếp nhận tín hiệu từ các cảm biến để tính toán lượng xăng phun tối ưu.",
+      "Điều khiển việc đóng mở các xupap nạp xả."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bộ phận nào trong hệ thống nhiên liệu Diesel tạo ra áp suất rất cao để phun tơi nhiên liệu?",
+    "options": [
+      "Bơm chuyển (bơm thấp áp).",
+      "Bơm cao áp.",
+      "Vòi phun.",
+      "Bầu lọc tinh."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Thời điểm vòi phun Diesel phun nhiên liệu vào xi lanh là:",
+    "options": [
+      "Đầu kỳ nạp.",
+      "Giữa kỳ nén.",
+      "Cuối kỳ nén (gần ĐCT).",
+      "Sau khi piston đã đi xuống kỳ nổ."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống đánh lửa là bộ phận bắt buộc phải có trên:",
+    "options": [
+      "Động cơ Diesel.",
+      "Động cơ xăng.",
+      "Động cơ phản lực.",
+      "Động cơ chạy bằng khí gas hóa lỏng."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Nhiệm vụ của biến áp đánh lửa (Bobin) là:",
+    "options": [
+      "Biến dòng điện áp thấp (12V) thành dòng điện áp cao (hàng chục nghìn V).",
+      "Tích trữ điện năng để đề máy.",
+      "Điều chỉnh khe hở của bugi."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Ưu điểm lớn nhất của hệ thống đánh lửa điện tử (không tiếp điểm) là:",
+    "options": [
+      "Đánh lửa mạnh, chính xác và không bị mòn má vít cơ khí.",
+      "Cấu tạo rất đơn giản, dễ sửa chữa bằng tay.",
+      "Không cần sử dụng nguồn điện từ ắc quy.",
+      "Giá thành sản xuất rẻ hơn hệ thống cũ."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống khởi động bằng động cơ điện lấy năng lượng từ:",
+    "options": [
+      "Máy phát điện trên xe.",
+      "Ắc quy.",
+      "Trực tiếp từ bugi.",
+      "Động cơ xăng phụ."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Khớp truyền động (Bendix) trong máy đề có tác dụng:",
+    "options": [
+      "Chỉ truyền mô men một chiều từ motor điện sang vành răng bánh đà.",
+      "Làm mát cho motor đề khi quay lâu.",
+      "Đánh lửa giúp động cơ nổ nhanh hơn.",
+      "Ngắt điện ắc quy khi máy đã nổ."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bộ xúc tác 3 thành phần (Catalytic Converter) dùng để khử loại khí độc nào?",
+    "options": [
+      "CO, HC, NOx.",
+      "CO2, N2, O2.",
+      "SO2 và bụi mịn.",
+      "Hơi nước và chì."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống xử lý khí thải SCR trên xe Diesel hiện đại sử dụng dung dịch gì?",
+    "options": [
+      "Nước cất.",
+      "Dầu hỏa.",
+      "Dung dịch Urea (AdBlue).",
+      "Cồn công nghiệp."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Chức năng của hệ thống EGR là:",
+    "options": [
+      "Tăng lượng oxy nạp vào để máy khỏe hơn.",
+      "Đưa một phần khí thải quay lại buồng cháy để giảm nồng độ khí độc NOx.",
+      "Lọc sạch bụi bẩn trong khí thải trước khi ra ngoài.",
+      "Tăng áp suất khí nén trong xi lanh."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Nếu bầu lọc dầu bị tắc hoàn toàn, dầu bôi trơn sẽ chuyển động như thế nào?",
+    "options": [
+      "Ngừng chảy hoàn toàn, động cơ bị bó máy ngay lập tức.",
+      "Chảy qua van an toàn đến thẳng đường dầu chính (không qua lọc).",
+      "Chảy ngược lại bình chứa để chờ thay lọc mới.",
+      "Chảy ra ngoài môi trường qua lỗ thoát."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hệ thống bôi trơn các-te rời (các-te khô) khác hệ thống các-te ướt ở chỗ:",
+    "options": [
+      "Dầu được chứa ở một thùng riêng biệt bên ngoài động cơ.",
+      "Không cần sử dụng bơm dầu.",
+      "Không cần bầu lọc dầu.",
+      "Dầu được phun trực tiếp vào đỉnh piston."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Cảm biến Oxy (Lambda) gắn trên đường ống xả có nhiệm vụ:",
+    "options": [
+      "Làm mát khí thải.",
+      "Đo lượng oxy dư để ECU điều chỉnh tỷ lệ hòa khí (xăng/khí) cho chuẩn.",
+      "Cung cấp thêm oxy cho bộ xúc tác.",
+      "Báo hiệu khi ống pô bị thủng."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Nhiệm vụ của bầu lọc gió là:",
+    "options": [
+      "Làm sạch bụi bẩn trong không khí nạp vào.",
+      "Giảm tiếng ồn khi động cơ hút khí.",
+      "Làm mát luồng không khí nạp.",
+      "Cả A và B đều đúng."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Trong hệ thống làm mát bằng nước, bộ phận nào có tác dụng đẩy nước tuần hoàn?",
+    "options": [
+      "Két nước.",
+      "Quạt gió.",
+      "Bơm nước.",
+      "Van hằng nhiệt."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bugi được phân loại thành \"Bugi nóng\" và \"Bugi lạnh\" dựa vào:",
+    "options": [
+      "Khả năng tản nhiệt của bugi.",
+      "Chiều dài của phần cách điện.",
+      "Cả A và B đều đúng.",
+      "Màu sắc của tia lửa điện."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hiện tượng \"bị e\" (lọt không khí) trong hệ thống nhiên liệu Diesel sẽ dẫn đến:",
+    "options": [
+      "Động cơ chạy nhanh hơn bình thường.",
+      "Động cơ không nổ được hoặc nổ rồi chết máy ngay.",
+      "Tiết kiệm nhiên liệu hơn.",
+      "Động cơ xả khói đen mù mịt."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Mục đích của việc thay dầu và lọc dầu định kỳ cho động cơ là:",
+    "options": [
+      "Duy trì khả năng bôi trơn tối ưu.",
+      "Loại bỏ các cặn bẩn và axit hình thành trong quá trình cháy.",
+      "Bảo vệ các chi tiết máy khỏi mài mòn và rỉ sét.",
+      "Tất cả các ý trên đều đúng."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Theo kiến thức cơ bản về cấu tạo ô tô và động cơ đốt trong."
+  }
+]
